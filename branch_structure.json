@@ -1,0 +1,33 @@
+{
+  "default_branch": "master",
+  "branches": [
+    "add-ci",
+    "agent/mip4-bundle-rescue",
+    "agent/page-bit-tree-frontend",
+    "anand/fix-clipboard-failures",
+    "master",
+    "one-claim-rule",
+    "origin",
+    "reduced-motion-motionconfig"
+  ],
+  "parent": {
+    "add-ci": "master",
+    "agent/mip4-bundle-rescue": "master",
+    "agent/page-bit-tree-frontend": "master",
+    "anand/fix-clipboard-failures": "master",
+    "master": null,
+    "one-claim-rule": "master",
+    "origin": "master",
+    "reduced-motion-motionconfig": "master"
+  },
+  "order": [
+    "master",
+    "add-ci",
+    "agent/mip4-bundle-rescue",
+    "agent/page-bit-tree-frontend",
+    "anand/fix-clipboard-failures",
+    "one-claim-rule",
+    "origin",
+    "reduced-motion-motionconfig"
+  ]
+}
