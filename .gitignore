@@ -9,7 +9,6 @@ out/
 .vercel/
 
 # env
-.env
 .env*.local
 
 # misc
@@ -20,3 +19,4 @@ next-env.d.ts
 .gstack/
 .vercel
 .claude/
+config.bat
